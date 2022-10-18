@@ -40,3 +40,4 @@ npm run preview
 ```
 
 Checkout the [deployment documentation](https://v3.nuxtjs.org/guide/deploy/presets) for more information.
+a mini-project with vue-js nuxt3 build
